@@ -15,7 +15,7 @@ Use standard counting semaphores for empty and full and a mutex lock, rather tha
 
 
 - Reference
-https://medium.com/@yuhanschen/os-producer-consumer-7a2df449f818
-https://blog.gtwang.org/programming/pthread-multithreading-programming-in-c-tutorial/
-https://shengyu7697.github.io/cpp-sem_wait/
+https://medium.com/@yuhanschen/os-producer-consumer-7a2df449f818<br />
+https://blog.gtwang.org/programming/pthread-multithreading-programming-in-c-tutorial/<br />
+https://shengyu7697.github.io/cpp-sem_wait/<br />
 
