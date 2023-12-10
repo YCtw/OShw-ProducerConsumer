@@ -2,7 +2,6 @@
 #include<stdlib.h>
 #include<unistd.h>
 #include<pthread.h>
-#include<semaphore.h>
 # define size 5
 
 pthread_mutex_t mutex;
